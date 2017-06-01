@@ -1,2 +1,2 @@
 # pyspark-text
-mapReduce Shakespear Texts
+mapReduce Shakespeare Texts
